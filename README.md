@@ -1,2 +1,2 @@
-# dream-2024
+# catatan penting 
 Repository untuk menyimpan impian kedepannya
